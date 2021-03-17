@@ -3,11 +3,10 @@ from http.server import BaseHTTPRequestHandler, HTTPServer
 import time
 import json
 
-hostName = "localhost"
+hostName = "0.0.0.0"
 serverPort = 8080
 
 OUPUT = "ADRI SUCKMA DICKA"
-
 
 class MyServer(BaseHTTPRequestHandler):
 
