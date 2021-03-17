@@ -6,7 +6,7 @@ import json
 hostName = "0.0.0.0"
 serverPort = 8080
 
-OUPUT = "ADRI SUCKMA DICKA"
+OUPUT = "HAY QUE REMAR PARA NO SER UN ROOKIE"
 
 class MyServer(BaseHTTPRequestHandler):
 
